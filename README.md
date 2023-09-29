@@ -1,2 +1,2 @@
 # proyectoTecnologico
-Página web sobre politicada desarrollada como trabajo práctico de la materia "Proyecto Tecnológico".
+Página web sobre politica desarrollada como trabajo práctico para la materia "Proyecto Tecnológico".
